@@ -1,1 +1,1 @@
-This portfolio showcases my projects, skills, and journey in Data Analytics and Python.
+This portfolio showcases my projects, skills, and journey in Data Science and Python.
